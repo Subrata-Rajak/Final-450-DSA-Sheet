@@ -18,22 +18,22 @@ int main()
         int integerArray[integerArraySize];
         char charArray[charArraySize];
 
-        for (int i = 0; i < integerArraySize; i++)
-            cin >> integerArray[i];
+        for (int index = 0; index < integerArraySize; index++)
+            cin >> integerArray[index];
 
-        for (int i = 0; i < charArraySize; i++)
-            cin >> charArray[i];
+        for (int index = 0; index < charArraySize; index++)
+            cin >> charArray[index];
 
         reverseIntegerArray(integerArray, integerArraySize);
         reverseCharArray(charArray, charArraySize);
 
-        for (int i = 0; i < integerArraySize; i++)
-            cout << integerArray[i] << " ";
+        for (int index = 0; index < integerArraySize; index++)
+            cout << integerArray[index] << " ";
 
         cout << endl;
 
-        for (int i = 0; i < charArraySize; i++)
-            cout << charArray[i] << " ";
+        for (int index = 0; index < charArraySize; index++)
+            cout << charArray[index] << " ";
 
         cout << endl;
     }
