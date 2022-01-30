@@ -24,6 +24,8 @@ I am Solving these problems in **C++ Programming Language**. Feel free to contri
 | 10 | Find the duplicate number | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/Subrata-Rajak/Final-450-DSA-Sheet/blob/master/Array/Find_the_duplicate_number.cpp) |
 | 11 | Find the maximum and minimum element | Not Found | [Solution](https://github.com/Subrata-Rajak/Final-450-DSA-Sheet/blob/master/Array/Find_the_maximum_and_minimum_element.cpp) |
 | 12 | Merge without extra space | [GFG](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1) | [Solution](https://github.com/Subrata-Rajak/Final-450-DSA-Sheet/blob/master/Array/Merge_without_extra_space.cpp) |
+| 13 | Common elements in 3 sorted arrays | [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1) | [Solution](https://github.com/Subrata-Rajak/Final-450-DSA-Sheet/blob/master/Array/Common_elements_in_3_sorted_arrays.cpp) |
+| 14 | Best time to buy and sell stocks | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/Subrata-Rajak/Final-450-DSA-Sheet/blob/master/Array/Stocks_buy_and_sell.cpp) |
 
 >**Point To Be Noted:** In future i will definitely upload more efficient versions of the solutions if there are any.
 >Thanks for the visit.
